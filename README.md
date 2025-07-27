@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumant Das</h1>
 <h3 align="center">A passionate Python developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sumant1708&label=Profile%20views&color=0e75b6&style=flat" alt="sumant1708" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sumant1708" alt="sumant1708" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/Sumant1708/Portfolio.git](https://github.com/Sumant1708/Portfolio.git)
 
 - 📫 How to reach me **sumantdas170803@gmail.com**
